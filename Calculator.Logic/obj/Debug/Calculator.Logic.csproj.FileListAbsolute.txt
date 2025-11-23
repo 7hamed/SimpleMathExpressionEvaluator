@@ -1,0 +1,6 @@
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.Logic\bin\Debug\Calculator.Logic.dll
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.Logic\bin\Debug\Calculator.Logic.pdb
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.Logic\obj\Debug\Calculator.Logic.csproj.AssemblyReference.cache
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.Logic\obj\Debug\Calculator.Logic.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.Logic\obj\Debug\Calculator.Logic.dll
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.Logic\obj\Debug\Calculator.Logic.pdb

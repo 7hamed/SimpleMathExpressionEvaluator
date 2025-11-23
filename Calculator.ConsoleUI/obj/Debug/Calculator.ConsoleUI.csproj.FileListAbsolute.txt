@@ -1,0 +1,11 @@
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\bin\Debug\Calculator.ConsoleUI.exe.config
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\bin\Debug\Calculator.ConsoleUI.exe
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\bin\Debug\Calculator.ConsoleUI.pdb
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\obj\Debug\Calculator.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\obj\Debug\Calculator.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\obj\Debug\Calculator.ConsoleUI.exe
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\obj\Debug\Calculator.ConsoleUI.pdb
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\obj\Debug\Calculator.ConsoleUI.exe.config
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\obj\Debug\Calculat.72AA9FD8.Up2Date
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\bin\Debug\Calculator.Logic.dll
+C:\Users\hamed\source\Course\course-16\Calculator\Calculator.ConsoleUI\bin\Debug\Calculator.Logic.pdb
